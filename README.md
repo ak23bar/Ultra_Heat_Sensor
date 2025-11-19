@@ -281,16 +281,16 @@ This project is open-source and available under the **MIT License**. Feel free t
 **Akbar Aman**  
 Embedded Systems Engineer | ARM Developer | IoT Enthusiast
 
-- 🔗 [LinkedIn](YOUR_LINKEDIN_URL)
-- 💼 [Portfolio](YOUR_PORTFOLIO_URL)
-- 📧 [Email](mailto:YOUR_EMAIL)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akbar-aman-94b1b6263/)
+- 💼 [Portfolio](https://akaman.dev/)
+- 📧 [Email](mailto:akbaraman797@gmail.com)
 
 ---
 
 ## 🙏 Acknowledgments
 
 - **Course:** ECE 266 - Embedded Systems  
-- **Institution:** [Your University Name]
+- **Institution:** University of Illinois at Chicago
 - **Original Project Context:** Final Lab Project, Fall 2024
 - **Hardware Platform:** Texas Instruments Tiva C Series
 - **Framework:** TivaWare™ Peripheral Driver Library
