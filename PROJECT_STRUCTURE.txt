@@ -1,0 +1,45 @@
+.
+├── assets
+│   └── README.md
+├── docs
+│   ├── BUILD.md
+│   ├── HARDWARE.md
+│   ├── QUICK_REFERENCE.md
+│   └── TECHNICAL.md
+├── hardware
+├── src
+│   ├── audio
+│   │   ├── buzzer_asm.asm
+│   │   ├── buzzer.c
+│   │   ├── buzzer.h
+│   │   ├── buzzer_h.h
+│   │   ├── music_buzzer.c
+│   │   ├── music.h
+│   │   ├── music_led.c
+│   │   ├── pwm_buzzer.c
+│   │   ├── pwm_buzzer.h
+│   │   ├── pwm_led.c
+│   │   └── pwm_led.h
+│   ├── core
+│   │   ├── LabProj.c
+│   │   ├── tm4c123gh6pm.cmd
+│   │   └── tm4c123gh6pm_startup_ccs.c
+│   ├── display
+│   │   ├── seg7digit.c
+│   │   ├── seg7.h
+│   │   └── seg7raw.c
+│   └── sensors
+│       ├── ranger.c
+│       ├── ranger.h
+│       ├── temp_sensor_asm.asm
+│       ├── temp_sensor.c
+│       └── temp_sensor.h
+├── targetConfigs
+│   ├── readme.txt
+│   └── Tiva TM4C123GH6PM.ccxml
+├── CONTRIBUTING.md
+├── LICENSE
+├── PROJECT_STRUCTURE.txt
+└── README.md
+
+10 directories, 33 files

@@ -1,0 +1,67 @@
+# Editor and IDE files
+.ccsproject
+.cproject
+.project
+.settings/
+.launches/
+*.launch
+
+# Build artifacts
+Debug/
+Release/
+*.obj
+*.out
+*.map
+*.d
+*.pp
+*.asm
+*.opt
+*.xml
+
+# Compiler/Linker outputs
+*.o
+*.a
+*.so
+*.exe
+*.elf
+*.axf
+*.bin
+*.hex
+
+# Code Composer Studio specific
+targetConfigs/
+RemoteSystemsTempFiles/
+.metadata/
+
+# TI specific
+*.projectspec
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Python (if used for tooling)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Misc
+*.tmp
+*.temp
